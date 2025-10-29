@@ -9,7 +9,8 @@
         "githubcopilot.com",
         "claude.ai",
         "itdog.info",
-        "generativelanguage.googleapis.com"
+        "generativelanguage.googleapis.com",
+        "awswaf.com"
       ]
     }
   ]
