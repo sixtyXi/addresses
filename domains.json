@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "github.com",
+        "githubusercontent.com",
+        "exp-tas.com",
+        "githubcopilot.com",
+        "claude.ai",
+        "itdog.info"
+      ]
+    }
+  ]
+}
