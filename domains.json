@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "github.com",
         "githubusercontent.com",
         "exp-tas.com",
         "githubcopilot.com",
