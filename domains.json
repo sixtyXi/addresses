@@ -3,34 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
-        "github.com",
         "githubusercontent.com",
         "exp-tas.com",
         "githubcopilot.com",
         "claude.ai",
-        "itdog.info",
         "generativelanguage.googleapis.com",
         "awswaf.com",
-        "podkop.net",
-        "notebooklm.google",
-        "youtube.com",
-        "ytimg.com",
-        "yting.com",
-        "ggpht.com",
-        "googlevideo.com",
-        "youtubekids.com",
-        "youtu.be",
-        "yt.be",
-        "youtube-nocookie.com",
-        "wide-youtube.l.google.com",
-        "ytimg.l.google.com",
-        "youtubei.googleapis.com",
-        "youtubeembeddedplayer.googleapis.com",
-        "youtube-ui.l.google.com",
-        "yt-video-upload.l.google.com",
-        "jnn-pa.googleapis.com",
-        "returnyoutubedislikeapi.com",
-        "yt3.googleusercontent.com"
+        "notebooklm.google"
       ]
     }
   ]
