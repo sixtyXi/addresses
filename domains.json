@@ -9,11 +9,13 @@
         "githubcopilot.com",
         "anthropic.com",
         "claude.ai",
-        "claude.com",
+        "claude.com",        
+        "aistudio.google.com",
+        "gemini.google.com",
+        "generativelanguage.googleapis.com",
+        "alkalimining-pa.googleapis.com",
+        "proactivebackend-pa.googleapis.com",
         "awswaf.com",
-        "developers.google.com",
-        "accounts.google.com",
-        "googleapis.com",
         "warhammer-community.com"
       ]
     }
