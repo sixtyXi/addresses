@@ -15,6 +15,7 @@
         "generativelanguage.googleapis.com",
         "alkalimining-pa.googleapis.com",
         "proactivebackend-pa.googleapis.com",
+        "openai.com",
         "awswaf.com",
         "warhammer-community.com"
       ]
