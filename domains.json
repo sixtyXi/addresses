@@ -12,15 +12,8 @@
         "anthropic.com",
         "assets-proxy.anthropic.com",
         "claude.ai",
-        "claude.com",        
-        "aistudio.google.com",
-        "gemini.google.com",
-        "generativelanguage.googleapis.com",
-        "alkalimining-pa.googleapis.com",
-        "proactivebackend-pa.googleapis.com",
-        "openai.com",
-        "awswaf.com",
-        "warhammer-community.com"
+        "claude.com",
+        "openai.com"
       ]
     }
   ]
