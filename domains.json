@@ -13,7 +13,8 @@
         "assets-proxy.anthropic.com",
         "claude.ai",
         "claude.com",
-        "openai.com"
+        "openai.com",
+        "chat.deepseek.com"
       ]
     }
   ]
